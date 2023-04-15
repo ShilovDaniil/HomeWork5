@@ -1,0 +1,5 @@
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task38\obj\Debug\net6.0\Task38.csproj.AssemblyReference.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task38\obj\Debug\net6.0\Task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task38\obj\Debug\net6.0\Task38.AssemblyInfoInputs.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task38\obj\Debug\net6.0\Task38.AssemblyInfo.cs
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task38\obj\Debug\net6.0\Task38.csproj.CoreCompileInputs.cache
