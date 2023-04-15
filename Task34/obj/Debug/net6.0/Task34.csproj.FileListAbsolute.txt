@@ -1,0 +1,15 @@
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\bin\Debug\net6.0\Task34.exe
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\bin\Debug\net6.0\Task34.deps.json
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\bin\Debug\net6.0\Task34.dll
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\bin\Debug\net6.0\Task34.pdb
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.dll
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\refint\Task34.dll
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.pdb
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork5\Task34\obj\Debug\net6.0\ref\Task34.dll
